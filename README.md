@@ -1,6 +1,4 @@
-<h1>To-do list📋</h1>
-
-<p>In this To-do list, you can list out your daily work with corresponding date, mark as complete✔️. You can also create different worlist on work-route📝</p>
+<h1>Face detection</h1>
 
 <h4>Languages Used</h4>
 <ul>
